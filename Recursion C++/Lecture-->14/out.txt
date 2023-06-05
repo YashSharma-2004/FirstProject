@@ -1,0 +1,12 @@
+Arrangement 1
+..Q. 
+Q... 
+...Q 
+.Q.. 
+
+Arrangement 2
+.Q.. 
+...Q 
+Q... 
+..Q. 
+

@@ -1,0 +1,12 @@
+Data->10 
+Data->0 10 
+Data->0 10 12 
+
+Data->0 10 12 15 
+
+Data->0 10 12 22 15 
+
+Memory Free. We have deleted: - 22
+Data->0 10 12 15 
+
+head: ->0 Tail: ->15
